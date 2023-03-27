@@ -5,11 +5,11 @@ library(tidyverse)
 library(socviz)
 
 # ========================================================================
-#                             Chpater 3 review
+#                             Chapter 3 review
 # ========================================================================
 
 # Reminder of what gapminder looks like
-view(gapminder)
+gapminder <- gapminder
 
 # Brief reminder of what we looked at in chapter 3
 
